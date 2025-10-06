@@ -513,3 +513,5 @@ QUIET=1 cargo run --features 'hotpath,hotpath-alloc-bytes-total' --release --bin
 ## Project status
 
 WIP, feedback appreciated. I'm currently seeking a sponsor to help cover archive node costs for [mevlog.rs](https://mevlog.rs/). My goal is to make a hosted search web UI publicly available.
+
+<!-- Auto-update: 2025-10-06T19:33:21.653208 -->
